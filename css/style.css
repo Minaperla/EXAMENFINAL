@@ -1,0 +1,38 @@
+
+h1{
+	text-align: center; 
+	color: blue;
+	font-size: 4em;
+}
+h2{
+	text-align: center;
+	color: red;
+	font-size: 3em;
+}
+h3{
+	text-align: right;
+	color: green;
+	font-size: 2em;
+}
+
+#foto 
+{
+text-align: center;
+background: purple;
+color: yellow
+}
+
+
+#iconsocial
+{
+	
+width: 10px;	
+height: 20px;	
+margin: 0 5px; }
+}
+
+#galery 
+{ margin: 0;	
+padding: 0;
+list-style: none;
+}
