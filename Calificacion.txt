@@ -1,0 +1,12 @@
+Detalle Calificacion   6.5/27
+Requisitos Funcionales (15 Puntos): (5 por pagina) 3 Puntos = (2, 1, 0) . No tienen nada de lo pedido de forma correcta.
+Errores Manejados o no tiene en consola (2 Puntos): 2 Puntos. No tiene errores graves xq no tiene codigo. Ironicamente esto las ha ayudado.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 0.5 Puntos. No tiene funciones adicionales a las que yo puse en clases.
+Buen Uso de Jquery y Galeria (2.5 Puntos): 0 Puntos. No implementaron la galeria con Jquery ni validaciones en el form. Ni siquiera tienen form.
+Uso de los media Queries (2.5 Puntos): 0 Puntos. No tienen media queries.
+Comentarios (1 Punto): 0 Puntos. No tienen ni un solo comentario.
+Pagina con buena estetica (1 Punto): 0 Puntos. No tiene estilos de CSS, por que?
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 6.5
+
+Comentarios Profesor
